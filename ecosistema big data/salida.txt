@@ -1,0 +1,64 @@
+Frecuencias sin truncar
+PARACETAMOL COMPRIMIDOS 500 mg                      25
+BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL              8
+VASELINA LÍQUIDA MEDICINAL                           7
+DOMPERIDONA COMPRIMIDOS 10 mg                        7
+AMBROXOL CLORHIDRATO JARABE 15 mg/5 mL               6
+NOSCAPINA COMPRIMIDOS 20 mg                          6
+PARACETAMOL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL       6
+PARACETAMOL SUPOSITORIOS 125 mg                      5
+METAMIZOL SÓDICO MONOHIDRATO COMPRIMIDOS 300 mg      5
+DOMPERIDONA CÁPSULAS 10 mg                           4
+AMBROXOL CLORHIDRATO JARABE 30 mg/5 mL               4
+ALOE FEROX CÁPSULAS 150 mg                           4
+ÁCIDO DEHIDROCÓLICO COMPRIMIDOS 250 mg               4
+NOSCAPINA JARABE 5 mg/5 mL                           4
+PARACETAMOL SOLUCIÓN PARA GOTAS ORALES 100 mg/mL     4
+Name: Nombre Producto, dtype: int64
+GLÓBU    91
+PARAC    83
+SIMIL    61
+HOMOI    58
+TAPSI    28
+ÁCIDO    28
+IKOPL    23
+METAM    22
+COMPL    21
+IBUPR    20
+AGUA     20
+GLOBU    19
+TÉ KN    18
+CALCI    17
+TÉ DE    17
+Name: Nombre Producto, dtype: int64
+GLÓBULO    91
+PARACET    83
+SIMILIA    60
+HOMOIO     58
+TAPSIN     28
+ÁCIDO A    24
+IKOPLEX    23
+COMPLEJ    21
+IBUPROF    20
+METAMIZ    19
+GLOBULO    19
+TÉ KNOP    18
+BIOACTI    16
+DOMPERI    16
+CEBION     15
+Name: Nombre Producto, dtype: int64
+PARACETAMO    83
+HOMOIO Nº     57
+SIMILIA Nº    50
+GLÓBULOS C    42
+GLÓBULO CO    38
+COMPLEJO A    21
+GLOBULO CO    19
+IBUPROFENO    19
+IKOPLEX Nº    19
+METAMIZOL     19
+TÉ KNOP N°    18
+DOMPERIDON    16
+BIOACTIV K    16
+MULTAMIN C    15
+ÁCIDO ACET    15
